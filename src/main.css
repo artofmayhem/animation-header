@@ -1,0 +1,18 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-style: normal;
+  font-weight: 400;
+  color: white;
+}
+
+.header {
+  font-size: x-large;
+  padding: 0 5vw;
+  background: linear-gradient(0.25turn, #222, #FFF, #A00);
+  color: black;
+}
+/*# sourceMappingURL=main.css.map */
