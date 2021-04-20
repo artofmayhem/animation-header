@@ -43,9 +43,9 @@ function App() {
                 </group>
                 <SpinningMesh position={[0, 0, 0]} color={'#222'} args={[3, 2, 1]} speed={6}/>
                 <SpinningMesh position={[7, 0, -2]} color={'#A00'} args={[2, 2, 3]} speed={3} />
-                <SpinningMesh position={[7, -3, -7]} color={'orangered'} args={[3, 3, 5]} speed={1}/>
-                <SpinningMeshSphere position={[15, -2, -5]} color={'yellow'} args={[2, 30]} speed={6} factor={1}/>
-                <SpinningMesh position={[-5, -2, -7]} color={'#AAA'} args={[3, 3, 5]} speed={1}/>
+                <SpinningMesh position={[7, -3, -7]} color={'green'} args={[3, 3, 5]} speed={1}/>
+                <SpinningMeshSphere position={[15, -2, -5]} color={''} args={[2, 30]} speed={6} factor={1}/>
+                <SpinningMesh position={[-5, -2, -7]} color={'indigo'} args={[3, 3, 5]} speed={1}/>
                 <SpinningMeshSphere
                     position={[0, 0, -10]}
                     color={'orangered'}

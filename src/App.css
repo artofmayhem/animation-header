@@ -13,6 +13,9 @@ h1 {
 }
 
 .header {
+  font-family: Sagittarius A, Sagittarius B, Isotope A, Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: 200;
   font-size: larger;
   padding: 3vh 5vw;
   background: linear-gradient(0.25turn, #222, #FFF, #AAA);
@@ -32,11 +35,9 @@ html, body, #root {
 }
 
 body {
-  background: url("/assets/3d-bg.jpg");
-  background-position: center center;
   background-size: cover;
-  background-repeat: no-repeat;
-  background-color: #000;
+  background: #000 url("/assets/3d-bg.jpg") no-repeat center center;
   position: fixed;
 }
+
 /*# sourceMappingURL=App.css.map */
